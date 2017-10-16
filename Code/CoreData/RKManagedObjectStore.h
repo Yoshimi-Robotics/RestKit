@@ -111,6 +111,8 @@
  */
 - (void)createPersistentStoreCoordinator;
 
+- (void)recreateManagedObjectContexts;
+
 /**
  Adds a new in memory persistent store to the persistent store coordinator of the receiver.
 

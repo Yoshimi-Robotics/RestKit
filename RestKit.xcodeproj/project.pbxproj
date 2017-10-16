@@ -2996,6 +2996,7 @@
 				INSTALL_PATH = "@rpath";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.restkit.restkit;
 				PRODUCT_NAME = RestKit;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -3022,6 +3023,7 @@
 				INFOPLIST_FILE = "Resources/PLISTs/RestKitFramework-Info.plist";
 				INSTALL_PATH = "@rpath";
 				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.restkit.restkit;
 				PRODUCT_NAME = RestKit;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
